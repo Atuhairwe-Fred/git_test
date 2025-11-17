@@ -1,1 +1,4 @@
 I have no idea what I am doing, ha!!
+
+    -A few hours later, I can now commit, push and edit .md syntax. yey
+..kudos!!!!
